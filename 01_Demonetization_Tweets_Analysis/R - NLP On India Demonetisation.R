@@ -50,7 +50,7 @@ head(demonetization.tweets.word.df)
 head(demonetization.tweets.emotion.df2)
 
 
-## TASK 4 - FINDING THE MOST POSITIVE & NEGATIVE ELON MUSK'S TWEET
+## TASK 4 - FINDING THE MOST POSITIVE & NEGATIVE TWEET
 
 demonetization.tweets.sent.value <- get_sentiment(demonetization.tweets.word.df)
 
@@ -86,7 +86,7 @@ legend('topright', demonetization.tweets.labels, cex=0.8,
        fill = rainbow(length(demonetization.tweets.labels)))
 
 
-## TASK 6 - TERM DOCUMENT MATRIX OF 2011 ELON MUSK TWEETS
+## TASK 6 - TERM DOCUMENT MATRIX OF TWEETS
 
 demonetization.tweets.tweet_corpus <- Corpus(VectorSource(demonetization.tweets.word.df))
 
@@ -98,7 +98,7 @@ demonetization.tweets.tdm <- TermDocumentMatrix(demonetization.tweets.tweet_corp
 
 
 
-## CALCULATING THE COUNTS OF DIFFERENT EMOTIONS FROM ELON MUSK TWEETS (Year = 2011)
+## CALCULATING THE EMOTIONS FROM THE TWEETS
 
 head(demonetization.tweets.tdm)
 demonetization.tweets.DF <- tidy(demonetization.tweets.tdm)
@@ -106,7 +106,6 @@ head(demonetization.tweets.DF)
 head(demonetization.tweets.DF$term)
 demonetization.tweets.DF.texts <- as.vector(demonetization.tweets.DF$term)
 
-# SENTIMENT ANALYSIS ON ELON MUSK'S TWEETS
 demonetization.tweets.DF.texts.Sentiment<-get_nrc_sentiment((demonetization.tweets.DF.texts))
 
 demonetization.tweets.positive =sum(demonetization.tweets.DF.texts.Sentiment$positive)
@@ -120,7 +119,7 @@ demonetization.tweets.surprise =sum(demonetization.tweets.DF.texts.Sentiment$sur
 demonetization.tweets.trust =sum(demonetization.tweets.DF.texts.Sentiment$trust)
 demonetization.tweets.negative =sum(demonetization.tweets.DF.texts.Sentiment$negative)
 
-# BAR CHART ON CALCULATED SENTIMENTS
+# BAR CHART ON EMOTIONS
 demonetization.tweets.yAxis <- c(demonetization.tweets.positive,
                         + demonetization.tweets.anger,
                         + demonetization.tweets.anticipation,
