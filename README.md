@@ -9,3 +9,5 @@
 ***Word Cloud of the most used words from the tweets:***
 
 <img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R-/blob/master/001_R%20-%20Demonetisation%20Word%20Cloud.png" width="600" height="400"/>
+
+<hr></hr>
