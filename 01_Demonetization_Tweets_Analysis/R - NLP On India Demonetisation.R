@@ -1,5 +1,5 @@
 ################################################################################
-## R - NLP & Text Mining Project 1.
+## R - NLP & Text Mining Project.
 
 ## Analysis of India's Demonetization Tweets.
 
