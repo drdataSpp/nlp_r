@@ -1,7 +1,7 @@
 ################################################################################
-## R - NLP & Text Mining Project 2
+## R - NLP & Text Mining Project on India's Demonetization Tweets.
 
-## Analysis of 2012 time frame Elon Musk's Tweets.
+## Analysis of India's Demonetization Tweets..
 
 ################################################################################
 
