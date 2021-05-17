@@ -4,8 +4,8 @@
 
 ***Analyzed Sentiments from the tweets:***
 
-![India's Demonetisation Sentiment](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R-/blob/master/001_R%20-%20Demonetisation%20sentiment.png)
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R-/blob/master/001_R%20-%20Demonetisation%20sentiment.png" width="600" height="400"/>
 
 ***Word Cloud of the most used words from the tweets:***
 
-![India's Demonetisation Word Cloud](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R-/blob/master/001_R%20-%20Demonetisation%20Word%20Cloud.png)
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R-/blob/master/001_R%20-%20Demonetisation%20Word%20Cloud.png" width="600" height="400"/>
