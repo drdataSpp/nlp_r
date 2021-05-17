@@ -1,5 +1,5 @@
 ################################################################################
-## R - NLP & Text Mining Project
+## R - NLP & Text Mining Project.
 
 ## Analysis of #IndiaWantsOxygen hashtag Tweets. 
 
