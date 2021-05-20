@@ -1,6 +1,6 @@
 # NLP Projects Using R 
 
-## Project 1: NLP on 2016 Indian Banknote Demonetisation
+## Project 1: NLP & Text Mining on 2016 Indian Banknote Demonetisation
 
 **1.1 Sentiment Pie Chart:**
 
@@ -20,7 +20,7 @@
 <hr></hr>
 
 
-## Project 2: NLP on #IndiaWantsOxygen hashtag tweets.
+## Project 2: NLP & Text Mining on #IndiaWantsOxygen hashtag tweets.
 
 **2.1 Sentiment Pie Chart:**
 
@@ -35,6 +35,27 @@
 <img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/02_India_Oxygen_Tweet_Analysis/India-Oxygen_Word%20Cloud%202.PNG" width="600" height="400"/>
 
 [**2.4 Project 2 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/02_India_Oxygen_Tweet_Analysis/R%20-%20NLP%20on%20%23IndiaWantsOxygen%20tweets.R)
+
+<hr></hr>
+<hr></hr>
+
+
+## Project 3: NLP & Text Mining on Reddit Vaccine Myths.
+*r/VaccineMyths subreddit posts and comments*
+
+**3.1 Sentiment Pie Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/Vaccine-Myths_Sentiment%20Pie%20Chart.png" width="600" height="400"/>
+
+**3.2 Emotions Bar Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/Vaccine-Myths_Emotion%20Bar%20Chart.png" width="600" height="400"/>
+
+**3.3 Word Cloud:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/Vaccine-Myths_Word%20Cloud%20Chart.png" width="600" height="400"/>
+
+[**3.4 Project 2 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/R%20-%20NLP%20on%20vaccine%20myths.R)
 
 <hr></hr>
 <hr></hr>
