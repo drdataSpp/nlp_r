@@ -90,3 +90,19 @@
 
 <hr></hr>
 <hr></hr>
+
+
+## Project 5: NLP & Text Mining on Conspiracy Subreddit.
+
+**5.1 Sentiment Pie Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/05_Conspiracy_SubReddit/Pie%20Chart%20-%20Conspiracy%20SubReddit.png" width="600" height="400"/>
+
+**5.2 Word Cloud:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/05_Conspiracy_SubReddit/Word%20Cloud%20-%20Conspiracy%20SubReddit.png" width="600" height="400"/>
+
+[**5.3 Project 5 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/05_Conspiracy_SubReddit/R%20-%20NLP%20on%20Conspiracy%20Subreddit.R)
+
+<hr></hr>
+<hr></hr>
