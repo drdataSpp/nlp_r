@@ -69,7 +69,24 @@
 
 <img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/Vaccine-Myths_Word%20Cloud%20Chart.png" width="600" height="400"/>
 
-[**3.4 Project 2 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/R%20-%20NLP%20on%20vaccine%20myths.R)
+[**3.4 Project 3 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/03_Reddit_Vaccine_Tweets_Analysis/R%20-%20NLP%20on%20vaccine%20myths.R)
+
+<hr></hr>
+<hr></hr>
+
+
+## Project 4: NLP & Text Mining on Pfizer Vaccine.
+*r/VaccineMyths subreddit posts and comments*
+
+**4.1 Sentiment Pie Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/04_Pfizer_Tweets_Analysis/Pie%20Chart%20-%20Pfizer%20Tweets.png" width="600" height="400"/>
+
+**4.2 Word Cloud:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/04_Pfizer_Tweets_Analysis/WordCloud%20-%20Pfizer%20Tweets.png" width="600" height="400"/>
+
+[**4.3 Project 4 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/04_Pfizer_Tweets_Analysis/R%20-%20NLP%20on%20Pfizer%20Tweets.R)
 
 <hr></hr>
 <hr></hr>
