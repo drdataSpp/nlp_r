@@ -112,13 +112,13 @@
 
 **6.1 Sentiment Pie Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/06_Human_Rights_Violation/NLP%20-%20Pie%20on%20Human%20Rights%20Violation.PNG" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/06_Human_Rights_Violation/NLP%20-%20Pie%20on%20Human%20Rights%20Violation.PNG" width="500" height="600"/>
 
 **6.2 Word Cloud:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/06_Human_Rights_Violation/NLP%20-%20WordCloud%20on%20Human%20Rights%20Violation.PNG" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/06_Human_Rights_Violation/NLP%20-%20WordCloud%20on%20Human%20Rights%20Violation.PNG" width="500" height="600"/>
 
-[**6.3 Project 5 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/06_Human_Rights_Violation/R%20-%20NLP%20on%20Human%20Rights%20Violation%20Tweets%201.R)
+[**6.3 Project 6 R Script**](https://github.com/drdataSpp/Spp-NLP-Projects-Using-R/blob/master/06_Human_Rights_Violation/R%20-%20NLP%20on%20Human%20Rights%20Violation%20Tweets%201.R)
 
 <hr></hr>
 <hr></hr>
