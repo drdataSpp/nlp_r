@@ -21,7 +21,7 @@ The Executive can note the most frequent terms/ words in the negative reviews wo
 
 
 ## What people like about the clothes?
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Womens-Ecommerce-Clothing-Reviews/blob/master/Word%20Cloud%20-%20Positive%20Reviews.png" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/11_Womens_Ecommerce_Clothing_Reviews_Analysis/Word%20Cloud%20-%20Positive%20Reviews.png" width="600" height="400"/>
 
 **Top words:** 
 - Color
@@ -30,7 +30,7 @@ The Executive can note the most frequent terms/ words in the negative reviews wo
 - Etc..
 
 ## What people dislike about the clothes?
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Womens-Ecommerce-Clothing-Reviews/blob/master/Word%20Cloud%20-%20Negative%20Reviews.png" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/11_Womens_Ecommerce_Clothing_Reviews_Analysis/Word%20Cloud%20-%20Negative%20Reviews.png" width="600" height="400"/>
 
 **Top words:** 
 - Small
