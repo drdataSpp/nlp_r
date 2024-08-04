@@ -11,7 +11,7 @@ The Executive can note the most frequent terms/ words in the negative reviews wo
 
 
 ## What people like about the Hotel?
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Hotel-Reviews/blob/master/Positive-Reviews-Word-Cloud.png" width="800" height="600"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/08_Hotel_Review_Analysis/Positive-Reviews-Word-Cloud.png" width="800" height="600"/>
 
 **Top words:** 
 - Place or *Ambience*
@@ -21,7 +21,7 @@ The Executive can note the most frequent terms/ words in the negative reviews wo
 - Etc..
 
 ## What people dislike about the Hotel?
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Hotel-Reviews/blob/master/Negative-Reviews-Word-Cloud.png" width="800" height="600"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/08_Hotel_Review_Analysis/Negative-Reviews-Word-Cloud.png" width="800" height="600"/>
 
 **Top words:** 
 - Taste
@@ -29,4 +29,3 @@ The Executive can note the most frequent terms/ words in the negative reviews wo
 - Waiter
 - Time 
 - Etc..
-
