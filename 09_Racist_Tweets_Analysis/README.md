@@ -7,8 +7,8 @@ This repository has R Scripts in which I have performed NLP and Text Mining on R
 - **The main purpose** of this project is to build two word clouds to understand what are the most used words that in Racist and Non-Racist Tweets. 
 
 ## Words used in the Racist Tweets.
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Racist-Tweets/blob/master/Racist-Tweets.png" width="800" height="600"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/09_Racist_Tweets_Analysis/Racist-Tweets.png" width="800" height="600"/>
 
 ## Words used in the Non-Racist Tweets.
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Racist-Tweets/blob/master/Non-Racist-Tweets.png" width="800" height="600"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/09_Racist_Tweets_Analysis/Non-Racist-Tweets.png" width="800" height="600"/>
 
