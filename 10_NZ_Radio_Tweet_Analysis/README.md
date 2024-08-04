@@ -19,17 +19,17 @@
 
 **1.1 Sentiment Pie Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Magic%20Talks%20Radio/Pie%20Chart%20-%20MT.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Magic%20Talks%20Radio/Pie%20Chart%20-%20MT.png" width="600" height="500"/>
 
 **1.2 Emotions Bar Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Magic%20Talks%20Radio/Bar%20Chart%20-%20MT.png" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Magic%20Talks%20Radio/Bar%20Chart%20-%20MT.png" width="600" height="400"/>
 
 **1.3 Popular Topics discussed by Magic Talks Radio:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Magic%20Talks%20Radio/Word%20Cloud%20-%20MT.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Magic%20Talks%20Radio/Word%20Cloud%20-%20MT.png" width="600" height="500"/>
 
-[**1.4 Project 1 R Script**](https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Magic%20Talks%20Radio/R%20-%20NLP%20Magic%20Talks%20Radio.R)
+[**1.4 Project 1 R Script**](https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Magic%20Talks%20Radio/R%20-%20NLP%20Magic%20Talks%20Radio.R)
 
 <hr></hr>
 <hr></hr>
@@ -38,17 +38,17 @@
 
 **2.1 Sentiment Pie Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/Pie%20-%20NT.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20News%20Talk%20ZB/Pie%20-%20NT.png" width="600" height="500"/>
 
 **2.2 Emotions Bar Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/Bar%20-%20NT.png" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Magic%20Talks%20Radio/Pie%20Chart%20-%20MT.png" width="600" height="400"/>
 
 **2.3 Popular Topics discussed by News Talk Radio:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/WC%20-%20NT.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20News%20Talk%20ZB/WC%20-%20NT.png" width="600" height="500"/>
 
-[**2.4 Project 2 R Script**](https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/R%20-%20NLP%20News%20Talk%20ZB.R)
+[**2.4 Project 2 R Script**](https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20News%20Talk%20ZB/R%20-%20NLP%20News%20Talk%20ZB.R)
 
 <hr></hr>
 <hr></hr>
@@ -57,14 +57,14 @@
 
 **3.1 Sentiment Pie Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/Pie%20-%20RNZ.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Radio%20NZ/Pie%20-%20RNZ.png" width="600" height="500"/>
 
 **3.2 Emotions Bar Chart:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/Bar%20-%20RNZ.png" width="600" height="400"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Radio%20NZ/Bar%20-%20RNZ.png" width="600" height="400"/>
 
 **3.3 Popular Topics discussed by Radio New Zealand:**
 
-<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/WC%20-%20RNZ.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Radio%20NZ/WC%20-%20RNZ.png" width="600" height="500"/>
 
-[**3.4 Project 3 R Script**](https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/R%20-%20NLP%20Radio%20NZ.R)
+[**3.4 Project 3 R Script**](https://github.com/drdataSpp/nlp_r/blob/master/10_NZ_Radio_Tweet_Analysis/NLP%20-%20Radio%20NZ/R%20-%20NLP%20Radio%20NZ.R)
